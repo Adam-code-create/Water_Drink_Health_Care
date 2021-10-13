@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/dialog_corner.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/drink_water_btn.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_add.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_alarm.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_back.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_bottle.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_change_circle.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_chat.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_cup.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_cup_2.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle250.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle300.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle400.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle500.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drink_bottle__1_.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_drop.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_droplet_water.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_lebel.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_lebel2.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_left.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_right.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_scale.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_setting.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_time.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/ic_time2.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/intro_bg.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/intro_bg2.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/drawable/lets_go_btn.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout-v23/dialog_change_cup.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_bed_time_change.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_change_cup.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_edit_drunk_water.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_gender_change.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_target_change.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_wake_up_time_change.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/dialog_weight_change.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/item_drunk_water.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/main_screen.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_bed_time.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_gender_selector.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_intro.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_last_to_start.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_settings.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_wakeup_time.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/page_weight_indicator.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/screen_beginning.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/screen_intro.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/screen_main.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/screen_settings.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/layout/screen_splash.xml" value="0.2125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/WaterDrinkHealthCare/app/src/main/res/menu/pop_up_menu.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

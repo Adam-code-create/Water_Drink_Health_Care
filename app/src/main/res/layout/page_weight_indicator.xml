@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_rawRes="@raw/sea_waves"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:id="@+id/wave"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/main_color"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How is your current weight?"
+        android:textSize="22sp"
+        app:layout_constraintVertical_bias="0.3"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/numberPicker"
+        android:layout_margin="24dp"
+        app:layout_constraintBottom_toTopOf="@id/assistant"
+        />
+    <NumberPicker
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberPicker"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.2"
+        app:layout_constraintBottom_toTopOf="@id/assistant"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kg"
+        android:layout_marginLeft="12dp"
+        android:id="@+id/kg"
+        android:textSize="22sp"
+        app:layout_constraintLeft_toRightOf="@id/numberPicker"
+        app:layout_constraintTop_toTopOf="@id/numberPicker"
+        app:layout_constraintBottom_toBottomOf="@id/numberPicker"
+        />
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:lottie_rawRes="@raw/assistant"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:id="@+id/assistant"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
